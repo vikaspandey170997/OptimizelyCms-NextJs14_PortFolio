@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Dexred.OptimizelySaas": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "FRONT_END_URL": "https://localhost:3000"
+      },
+      "applicationUrl": "https://localhost:5000/"
+    }
+  }
+}
